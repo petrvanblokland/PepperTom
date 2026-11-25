@@ -157,7 +157,7 @@ Claudia Mens | claudia@petr.com
 
 mobile +31 6 41 367 689 | studio +31 15 887 1233
 
-Rietveld 56 | 2611 LM Delft | The Netherlands
+Rotterdamseweg 150-d | 2628 AP Delft | The Netherlands
 
 129  Indian Hill Road | 02575 West Tisbury Martha's Vineyard | USA
 
@@ -165,7 +165,7 @@ The company is registered in the Chamber of Commerce (Handelsregister Kamer van 
 
 # Studio
 
-Pepper+Tom is initiated by Claudia Mens, located at Rietveld 56, 2611 LM in Delft, The Netherlands. 
+Pepper+Tom is initiated by Claudia Mens, located at Rotterdamseweg 150-d, 2628 AP in Delft, The Netherlands. 
 
 Telephone mobile +31 6 41 367 689 or studio +31 15 887 1233
 
@@ -707,7 +707,7 @@ She designed a series of scarves with type and motifs of leafs, produced by NGO 
 
 Besides the products of Pepper+Tom, similar to work in all of the photo's on this website, design can be made by Claudia as a special custom assignment. Ask her: claudia@petr.com
 
-Pepper+Tom is initiated by Claudia Mens, located at Rietveld 56, 2611 LM in Delft, The Netherlands. 
+Pepper+Tom is initiated by Claudia Mens, located at Rotterdamseweg 150-d, 2628 AP in Delft, The Netherlands. 
 
 Telephone mobile +31 6 41 367 689 or studio +31 15 887 1233
 
@@ -745,7 +745,7 @@ Claudia Mens | claudia@petr.com
 
 mobile +31 6 41 367 689 | studio +31 15 887 1233
 
-Rietveld 56 | 2611 LM Delft | The Netherlands
+Rotterdamseweg 150-d | 2628 AP Delft | The Netherlands
 
 129  Indian Hill Road | 02575 West Tisbury Martha's Vineyard | USA
 

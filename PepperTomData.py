@@ -549,7 +549,7 @@ Pendleton, Boweevil, Capsicum, Ecological Textiles and Bottger *Fabric suppliers
 
 Claudia Mens (Pepper) *Designer, founder Pepper+Tom*
 
-Pepper+Tom is initiated by Claudia Mens, located at Rietveld 56, 2611 LM in Delft, The Netherlands.
+Pepper+Tom is initiated by Claudia Mens, located at Rotterdamseweg 150-d, 2628 AP in Delft, The Netherlands.
 ---
 ## About me
 
@@ -573,7 +573,7 @@ Claudia Mens | claudia@petr.com
 
 mobile +31 6 41 367 689 | studio +31 15 887 1233 
 
-Rietveld 56 | 2611 LM Delft | The Netherlands 
+Rotterdamseweg 150-d | 2628 AP Delft | The Netherlands 
 
 The company is registered in the Chamber of Commerce (Handelsregister Kamer van Koophandel), by name Buro Petr van Blokland + Claudia Mens, number 27237753 Delft. 
 
