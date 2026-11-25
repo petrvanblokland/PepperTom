@@ -571,7 +571,7 @@ Besides the products of Pepper+Tom, similar to work in all of the photo's on thi
 
 Claudia Mens | claudia@petr.com 
 
-mobile +31 6 41 367 689 | studio +31 15 887 1233 
+mobile +31 6 41 367 689 
 
 Rotterdamseweg 150-d | 2628 AP Delft | The Netherlands 
 
