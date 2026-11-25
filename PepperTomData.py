@@ -244,7 +244,7 @@ p.articleFooter_3 = dk3
 
 # Page index, article 3
 
-p.articleImage_4 = 'images/skirts/rok_lang_geelgroen_08.jpg'
+p.articleImage_4 = 'images/skirts/Rok_Lang_GeelGroen_08.jpg'
 p.articleSubhead_4 = 'Slow fashion.'
 p.articleHead_4 = 'Skirts'
 p.articleText_4 = articleFashion
