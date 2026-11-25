@@ -26,7 +26,7 @@
 #
 #   siteData.menuName = 'Menu'
 #   siteData.year = now().year
-#   siteData.copyright = '<a href="https://typetr.typenetwork.com">TYPETR</a>'
+#   siteData.copyright = '<a href="https://typetr.com">TYPETR</a>'
 #   siteData.fontFamily = 'Upgrade'
 #   siteData.logo = """<img src="images/logo.png"/>"""
 #   siteData.logoFontFamily = 'PepperTom'

@@ -42,7 +42,7 @@ sd.menuName = 'Menu'
 sd.year = now().year
 sd.copyright = ' | '.join((
     '<a href="https://peppertom.com" target="external">Pepper+Tom</a>',
-    '<a href="https://typetr.typenetwork.com">TYPETR</a>',
+    '<a href="https://typetr.com">TYPETR</a>',
     '<a href="https://designdesign.space">DesignDesign.Space</a>'))
 sd.fontFamily = 'Upgrade'
 sd.logo = """<span style="color:#%s;">|</span><span style="color:#%s">d</span><span style="color: #%s;">|</span>""" % (theme.logo2.hex, theme.logo1.hex, theme.logo3.hex)

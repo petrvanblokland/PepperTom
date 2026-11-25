@@ -1,7 +1,7 @@
 
 .site peppertom.
 .menuName. Menu
-.copyright. <a href="https://peppertom.com">Pepper+Tom</a>, <a href="https://typetr.typenetwork.com">TYPETR</a>, <a href="https://designdesign.space">DesignDesign.Space</a>
+.copyright. <a href="https://peppertom.com">Pepper+Tom</a>, <a href="https://typetr.com">TYPETR</a>, <a href="https://designdesign.space">DesignDesign.Space</a>
 .fontFamily. Upgrade
 
 .logo. <span style="color:#ff0000;">|</span>d<span style="color: #EC842C;">|</span> 
